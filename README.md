@@ -212,35 +212,6 @@ Privacy-focused communication platform with secure messaging.
 
 <img src="https://streak-stats.demolab.com?user=pranavkoushik6&theme=tokyonight&hide_border=true&border_radius=10" />
 
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pranavkoushik6&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=pranavkoushik6&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=2&column=4" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/pranavkoushik6/pranavkoushik6/output/github-contribution-grid-snake.svg" />
 
 </div>
 
