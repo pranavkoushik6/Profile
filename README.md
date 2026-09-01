@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Pranav Koushik
 
-###  Full Stack Developer ☕ Java Developer • 🚀 
+###  Full Stack Developer • ☕ Java Developer  🚀 
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=2500&pause=700&color=00D9FF&center=true&vCenter=true&width=700&lines=Java+Developer+%E2%98%95;Full+Stack+Developer+%F0%9F%8C%90;Python+Programmer+%F0%9F%90%8D;DSA+Enthusiast+%F0%9F%A7%A0;Problem+Solver+%F0%9F%92%A1;Building+Real+World+Projects+%F0%9F%9A%80" />
 
